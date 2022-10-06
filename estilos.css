@@ -5,11 +5,16 @@ body{
 }
 t
 
-h1, h2, h3, p{
+h1, h2, h3 {
   font-style: oblique;
   text-align: center;
   color:rgb(0, 0, 0);
+  
+}
+p{
   margin: auto;
+  text-align: left;
+
 }
 ul {
   list-style-type: none;
